@@ -1,0 +1,10 @@
+{
+  "name": "b00c3225-ff27-49eb-8bed-0a9eeb6fcfe1",
+  "displayName": "negativeColdCallDislike",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 22
+}

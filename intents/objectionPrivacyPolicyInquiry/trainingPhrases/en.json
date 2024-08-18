@@ -1,0 +1,66 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "What measures does Travers take to ensure data privacy?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "How is personal information safeguarded in ",
+      "auto": true
+    }, {
+      "text": "Travers",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you explain ",
+      "auto": true
+    }, {
+      "text": "Travers",
+      "parameterId": "person",
+      "auto": true
+    }, {
+      "text": "' data privacy policy?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What privacy protections are in place for data on Travers?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "How does ",
+      "auto": true
+    }, {
+      "text": "Travers",
+      "parameterId": "person",
+      "auto": true
+    }, {
+      "text": " protect user data privacy?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What’s your privacy policy regarding my data?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

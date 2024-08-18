@@ -1,0 +1,10 @@
+{
+  "name": "7deee4f2-a482-4eb9-a768-efc1aabb7601",
+  "displayName": "objectionUserBaseSizeQuestion",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

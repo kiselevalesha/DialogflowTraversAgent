@@ -1,0 +1,13 @@
+{
+  "name": "445f0ca8-4a4a-468b-8600-d3490951fbe6",
+  "displayName": "objectionHiddenFeesInquiry",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

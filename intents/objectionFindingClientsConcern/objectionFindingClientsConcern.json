@@ -1,0 +1,13 @@
+{
+  "name": "a70027be-9690-4092-a39d-c2609b8f9581",
+  "displayName": "objectionFindingClientsConcern",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

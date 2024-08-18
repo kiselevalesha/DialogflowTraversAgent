@@ -1,0 +1,10 @@
+{
+  "name": "e6c62bdf-ca1c-4ba0-b596-38ffe67f132f",
+  "displayName": "objectionPastAppBadExperiences",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

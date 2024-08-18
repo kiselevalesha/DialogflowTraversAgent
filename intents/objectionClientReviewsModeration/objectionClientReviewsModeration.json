@@ -1,0 +1,10 @@
+{
+  "name": "8c6ecc9d-620b-4bf1-be05-cbc3b8682dd9",
+  "displayName": "objectionClientReviewsModeration",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

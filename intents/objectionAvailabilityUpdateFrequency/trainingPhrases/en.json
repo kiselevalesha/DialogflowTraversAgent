@@ -1,0 +1,73 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Is it easy to update my teaching slots in ",
+      "auto": true
+    }, {
+      "text": "Travers",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can I adjust my availability on Travers regularly?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "How flexible is ",
+      "auto": true
+    }, {
+      "text": "Travers",
+      "parameterId": "person",
+      "auto": true
+    }, {
+      "text": " with schedule changes?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What's the process for updating my teaching availability in ",
+      "auto": true
+    }, {
+      "text": "Travers",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can I frequently change my availability on ",
+      "auto": true
+    }, {
+      "text": "Travers",
+      "parameterId": "person",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "How often do I need to update my availability?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

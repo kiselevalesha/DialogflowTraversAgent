@@ -1,0 +1,59 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Does ",
+      "auto": true
+    }, {
+      "text": "Travers",
+      "parameterId": "person",
+      "auto": true
+    }, {
+      "text": " have a system to discourage client no-shows?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "How can Travers help me avoid the inconvenience of no-shows?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What measures are in place on Travers to reduce no-show incidents?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Are no-shows a common problem with bookings made through ",
+      "auto": true
+    }, {
+      "text": "Travers",
+      "parameterId": "person",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "How does Travers mitigate the issue of client no-shows?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I don’t want to deal with no-shows booked through an app.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

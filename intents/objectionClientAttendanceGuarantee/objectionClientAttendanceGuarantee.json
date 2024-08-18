@@ -1,0 +1,13 @@
+{
+  "name": "e9ede257-aafb-4370-b7e8-ed2f069beff6",
+  "displayName": "objectionClientAttendanceGuarantee",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

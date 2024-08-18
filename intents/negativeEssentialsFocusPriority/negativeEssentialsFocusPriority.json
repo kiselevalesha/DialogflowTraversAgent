@@ -1,0 +1,10 @@
+{
+  "name": "36c66c75-6036-48b9-b11b-eac368dd55be",
+  "displayName": "negativeEssentialsFocusPriority",
+  "parameters": [ {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 22
+}

@@ -1,0 +1,10 @@
+{
+  "name": "d9e2c0f2-fb55-4635-8a28-c67587aec874",
+  "displayName": "productSportsInstruction",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 7
+}

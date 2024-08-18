@@ -1,0 +1,10 @@
+{
+  "name": "18ff8d51-642c-46e2-8bf6-3d47627b4adf",
+  "displayName": "objectionInstructorQualityAssurance",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

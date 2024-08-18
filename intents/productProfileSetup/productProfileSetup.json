@@ -1,0 +1,10 @@
+{
+  "name": "5bd76b34-e412-4a2d-b535-b99d9fe04af8",
+  "displayName": "productProfileSetup",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

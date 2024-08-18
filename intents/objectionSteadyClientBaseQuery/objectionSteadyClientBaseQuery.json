@@ -1,0 +1,10 @@
+{
+  "name": "df9a0c0d-7eee-428d-9e6d-9f6fa1b02e2c",
+  "displayName": "objectionSteadyClientBaseQuery",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

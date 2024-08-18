@@ -1,0 +1,10 @@
+{
+  "name": "29aefc96-0ba3-49e7-9057-a85e72b73f13",
+  "displayName": "objectionDailyLessonsLimitation",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

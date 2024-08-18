@@ -1,0 +1,10 @@
+{
+  "name": "84ad8f24-5255-4bac-a571-1f5ac6101da1",
+  "displayName": "negativeSwitchingReadinessAbsence",
+  "parameters": [ {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 26
+}

@@ -1,0 +1,10 @@
+{
+  "name": "d461ac0a-d34f-4351-850e-4a6cf1dd6c95",
+  "displayName": "objectionCommissionRateConcerns",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

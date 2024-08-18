@@ -1,0 +1,13 @@
+{
+  "name": "729d75ec-d679-4e17-b271-0c9cc53cf447",
+  "displayName": "negativeResearchBeforeChange",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "ordinal",
+    "entityType": "@sys.ordinal"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 21
+}

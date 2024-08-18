@@ -1,0 +1,10 @@
+{
+  "name": "45acf33a-efd4-46fb-a5df-c9efba5d4c18",
+  "displayName": "objectionAppUsabilityConcern",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

@@ -1,0 +1,19 @@
+{
+  "name": "da177dc3-8b70-4f60-af36-7eeb1cca0dc5",
+  "displayName": "product",
+  "transitionRoutes": [ {
+    "intent": "productAttendanceAssurance",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers encourages client commitment and aims to reduce no-shows by enabling direct communication and scheduling between instructors and clients. While it cannot guarantee client attendance, the platform facilitates an environment that promotes client responsibility and engagement.\n", "Though Travers does not guarantee client attendance, it supports instructors in fostering client commitment through features that allow for direct scheduling and communication. The app encourages a culture of responsibility among clients, despite not offering specific mechanisms to assure attendance." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "df1d1427-40e4-4517-8b18-ff238a878a42"
+  } ]
+}

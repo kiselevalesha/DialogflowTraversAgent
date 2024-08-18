@@ -1,0 +1,13 @@
+{
+  "name": "b90ffceb-5a2f-4960-a5e8-20bf1ba13783",
+  "displayName": "negativeLuxuryJustificationChallenge",
+  "parameters": [ {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  }, {
+    "id": "currency-name",
+    "entityType": "@sys.currency-name"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 21
+}

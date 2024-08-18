@@ -1,0 +1,10 @@
+{
+  "name": "00eb92b0-1083-4ed6-91c1-9ac6d786688a",
+  "displayName": "productGroupLessons",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 7
+}

@@ -1,0 +1,13 @@
+{
+  "name": "8714ec96-79f6-4b89-94d2-9c7cca9dca58",
+  "displayName": "objectionLastMinuteCancellationPolicy",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

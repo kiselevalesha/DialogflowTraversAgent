@@ -1,0 +1,10 @@
+{
+  "name": "cfd92bea-501d-4952-90f9-198b73b61f1a",
+  "displayName": "objectionSchedulingUnderstandingDoubt",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

@@ -1,0 +1,13 @@
+{
+  "name": "794d9e75-116c-47fe-b835-dd1236d9a9be",
+  "displayName": "productBookingManagement",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 7
+}

@@ -1,0 +1,10 @@
+{
+  "name": "09c2a153-00a0-4c1d-b5c6-92dabb06228f",
+  "displayName": "objectionMonetizationStrategyQuestion",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

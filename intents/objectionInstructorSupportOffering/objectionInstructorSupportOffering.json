@@ -1,0 +1,13 @@
+{
+  "name": "ee10af65-602c-4d7d-bc2f-800a2d990eee",
+  "displayName": "objectionInstructorSupportOffering",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

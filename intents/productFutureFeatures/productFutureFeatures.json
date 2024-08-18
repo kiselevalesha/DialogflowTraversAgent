@@ -1,0 +1,13 @@
+{
+  "name": "7c759d50-30c3-406a-b929-ec317188b684",
+  "displayName": "productFutureFeatures",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 7
+}

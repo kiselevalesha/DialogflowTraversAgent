@@ -1,0 +1,10 @@
+{
+  "name": "7d1097d0-5cfb-467a-af91-e17a0d789369",
+  "displayName": "objectionIncomeDependenceConcern",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

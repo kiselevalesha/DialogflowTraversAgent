@@ -1,0 +1,10 @@
+{
+  "name": "4e957037-af68-4473-9444-d53dd0363042",
+  "displayName": "negativeTimeConsiderationLack",
+  "parameters": [ {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 26
+}

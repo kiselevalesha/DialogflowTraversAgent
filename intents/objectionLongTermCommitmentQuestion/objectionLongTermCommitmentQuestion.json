@@ -1,0 +1,10 @@
+{
+  "name": "a8f624c2-0a4e-49f0-b14c-2d221f7dec2e",
+  "displayName": "objectionLongTermCommitmentQuestion",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

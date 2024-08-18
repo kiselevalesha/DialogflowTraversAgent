@@ -1,0 +1,10 @@
+{
+  "name": "e3e9cc1e-b1f8-4708-8b49-afcb8df4c088",
+  "displayName": "objectionClienteleIncreasePossibility",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

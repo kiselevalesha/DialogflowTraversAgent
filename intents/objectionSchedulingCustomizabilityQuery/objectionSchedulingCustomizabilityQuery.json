@@ -1,0 +1,13 @@
+{
+  "name": "56ec938e-9e23-463f-b4b0-d911b9b6d5c3",
+  "displayName": "objectionSchedulingCustomizabilityQuery",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

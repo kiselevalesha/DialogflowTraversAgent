@@ -1,0 +1,10 @@
+{
+  "name": "fdf233ba-2796-4a30-bbea-85738e1765c9",
+  "displayName": "objectionTeachingMethodsPrivacy",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

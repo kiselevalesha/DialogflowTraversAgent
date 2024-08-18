@@ -1,0 +1,176 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "This feels like an extravagance that doesn't align with our budget ",
+      "auto": true
+    }, {
+      "text": "at the moment",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Under our current financial constraints, this seems like an unnecessary luxury",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This looks like a non-essential luxury we can't justify right now",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This seems like an indulgence we can't afford at ",
+      "auto": true
+    }, {
+      "text": "this time",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Given our ",
+      "auto": true
+    }, {
+      "text": "current",
+      "parameterId": "currency-name",
+      "auto": true
+    }, {
+      "text": " expenses, this luxury seems unnecessary",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This appears to be an extra that we can't justify in our current financial situation",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "At present, this seems like an extravagance we can't allocate funds for",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This feels like a luxury that's beyond our current budget capabilities",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This looks like a non-essential expense we can't justify at the moment",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Right now, this seems like a luxury we shouldn't stretch our budget for",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This appears to be an indulgence that's not justifiable under our current financial conditions",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Given our budget, this luxury seems out of reach right now",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This seems like an extra we can't justify spending on currently",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This feels like an unnecessary addition given our current financial state",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "At ",
+      "auto": true
+    }, {
+      "text": "this time",
+      "parameterId": "date-time",
+      "auto": true
+    }, {
+      "text": ", this seems like a luxury we can't afford",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This looks like a non-essential we shouldn't be spending on right now",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This seems like an extravagance we can't afford ",
+      "auto": true
+    }, {
+      "text": "at the moment",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm not sure we can justify the cost of this luxury at present",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This appears to be a luxury that doesn't fit our current budget",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This feels like an unnecessary expense right now",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This seems like a luxury we can't justify at the moment",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

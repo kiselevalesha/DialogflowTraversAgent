@@ -1,0 +1,13 @@
+{
+  "name": "8b87c3d2-ed52-4993-a635-ff5adf7ec47a",
+  "displayName": "productPaymentProcessing",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 7
+}

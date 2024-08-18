@@ -1,0 +1,13 @@
+{
+  "name": "2e964d65-9cbc-4dab-af9a-160fbefef130",
+  "displayName": "objectionAvailabilityUpdateFrequency",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

@@ -1,0 +1,10 @@
+{
+  "name": "4804ab01-08bb-47ff-866c-27712697a736",
+  "displayName": "negativeVendorExperimentationHesitance",
+  "parameters": [ {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 24
+}

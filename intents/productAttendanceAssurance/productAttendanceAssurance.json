@@ -1,0 +1,13 @@
+{
+  "name": "0c955b2a-18ee-4c09-b0da-855b4a6fd7dd",
+  "displayName": "productAttendanceAssurance",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 5
+}

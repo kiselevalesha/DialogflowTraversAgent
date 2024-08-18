@@ -1,0 +1,10 @@
+{
+  "name": "a641fa6c-de0f-4ace-90a4-f9c78b3b3e5e",
+  "displayName": "negativeSalesPitchDisinterest",
+  "parameters": [ {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 21
+}

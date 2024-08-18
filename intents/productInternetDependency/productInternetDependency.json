@@ -1,0 +1,10 @@
+{
+  "name": "bc71b650-be0d-4053-ac52-9e99d23fa1f5",
+  "displayName": "productInternetDependency",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 8
+}

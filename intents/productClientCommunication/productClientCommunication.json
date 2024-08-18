@@ -1,0 +1,13 @@
+{
+  "name": "75b0b2dc-5dd8-4436-a2c3-4d215ce7f3de",
+  "displayName": "productClientCommunication",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 7
+}

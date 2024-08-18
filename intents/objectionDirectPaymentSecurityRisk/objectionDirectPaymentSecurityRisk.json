@@ -1,0 +1,13 @@
+{
+  "name": "7359cca9-a230-4210-aadf-aa48e64ec801",
+  "displayName": "objectionDirectPaymentSecurityRisk",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

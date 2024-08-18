@@ -1,0 +1,10 @@
+{
+  "name": "0e9005f7-7383-4012-ac69-981f0b508461",
+  "displayName": "objectionAdministrativeWorkloadWorry",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

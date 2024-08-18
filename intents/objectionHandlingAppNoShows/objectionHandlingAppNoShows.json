@@ -1,0 +1,10 @@
+{
+  "name": "29e859ee-6485-4102-b97b-5c25e158eaa1",
+  "displayName": "objectionHandlingAppNoShows",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

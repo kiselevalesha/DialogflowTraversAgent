@@ -1,0 +1,13 @@
+{
+  "name": "ae49767f-0b74-49b5-8d75-398f9614a69a",
+  "displayName": "objectionDigitalPaymentWorries",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

@@ -1,0 +1,10 @@
+{
+  "name": "501356d4-c048-4701-83df-6aab03b26215",
+  "displayName": "objectionProfileSetupTime",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

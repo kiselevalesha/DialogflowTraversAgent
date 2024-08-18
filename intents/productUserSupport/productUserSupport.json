@@ -1,0 +1,10 @@
+{
+  "name": "c70ee479-fe8d-4899-b9d1-1bcade2abc66",
+  "displayName": "productUserSupport",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

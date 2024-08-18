@@ -1,0 +1,10 @@
+{
+  "name": "07ed1d18-442a-4b9d-a278-2e40c50205bc",
+  "displayName": "productUserStatistics",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

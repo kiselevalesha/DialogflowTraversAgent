@@ -1,0 +1,594 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Start Flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Hi, this is Ann from Travers" ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "fe94a8e8-3333-4f2a-8af8-6c4ce857145c"
+  }, {
+    "intent": "productSportsInstruction",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers differentiates itself with a focus on action sports, offering a user-friendly platform with no subscription fees, professional profiles for instructors, a comprehensive calendar management system, and QR codes for easy client onboarding.", "Travers stands out by specializing in action sports, providing tools like detailed instructor profiles, an extensive calendar system, and QR code functionality for subscription-free, seamless scheduling and client engagement." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "b72bdb22-d2e2-4f6c-aae4-3b673a3b5311",
+    "description": "productSportsInstruction"
+  }, {
+    "intent": "productAttendanceAssurance",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers encourages client commitment and aims to reduce no-shows by enabling direct communication and scheduling between instructors and clients. While it cannot guarantee client attendance, the platform facilitates an environment that promotes client responsibility and engagement.", "Though Travers does not guarantee client attendance, it supports instructors in fostering client commitment through features that allow for direct scheduling and communication. The app encourages a culture of responsibility among clients, despite not offering specific mechanisms to assure attendance." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "6b1fa44d-8b9a-4477-ba13-e701fff7b651"
+  }, {
+    "intent": "productRevenueModel",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers is entirely free for instructors with no hidden fees, subscription plans, or charges for current features, ensuring full access to all functionalities without financial concerns.", "Travers is free for instructors, offering complete access to its current features without subscription fees, future advanced functionalities may introduce costs, yet the core services will remain free." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "0f003285-4ff0-4092-b026-798b0d02b017"
+  }, {
+    "intent": "productClientCommunication",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers facilitates seamless communication by providing client contact details after bookings, enabling instructors to directly coordinate with clients for smooth lesson arrangements and ensuring effective client communication.", "By offering client contacts post-booking, Travers ensures instructors can easily communicate with their clients, facilitating direct interactions for efficient lesson coordination and enhancing the overall teaching experience." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "1452e956-83a8-4ac6-a178-38131468b9d7"
+  }, {
+    "intent": "productRetentionTools",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers includes an automated reminder system that helps ensure clients remember their upcoming lessons, reducing no-shows and aiding in efficient schedule management. This feature, combined with a seamless booking experience and reminders for booking the next lesson, plays a key role in retaining clients and encouraging them to rebook lessons, ultimately maintaining strong client relationships.", "With features like automated reminders to inform clients about their scheduled sessions and a user-friendly booking process, Travers supports client retention by making it easy for clients to stay engaged and inclined to rebook lessons. This approach not only enhances the teaching experience but also ensures clients are consistently reminded and motivated to continue their learning journey, fostering lasting client relationships." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "184fa4f3-4040-4eea-ae20-f8d027a4291b"
+  }, {
+    "intent": "productInternetDependency",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "An active internet connection is essential for accessing the full functionality of Travers, including booking management and client communication. The app is optimized to function efficiently even with low internet connectivity, ensuring you can stay updated and communicate with your clients under various network conditions.", "To utilize all features of Travers, such as managing bookings and communicating with clients, an ongoing internet connection is necessary. However, Travers is designed to operate effectively on low-speed connections, aiming to provide uninterrupted service and accessibility even in areas with limited internet access." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "db081c6e-0308-423c-85e0-91e468731c59"
+  }, {
+    "intent": "productSocialIntegration",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers currently does not support direct integration with social media accounts or personal websites and blogs. However, instructors can manually copy their Travers profile link and share it on their social media or personal website. The team is considering deeper integration options for social media accounts and personal website links for future development to enhance promotional and engagement capabilities.", "While direct social media and website integration features are not available in Travers at this moment, instructors have the option to share their Travers profile link manually on social media platforms and personal websites for promotional purposes. The possibility of offering more integrated social media sharing and website linking functionalities is under consideration for future updates to the app, aiming to improve user experience and extend promotional reach." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "e7ae167b-fa9c-4e52-9ee0-7e83bfe94e65"
+  }, {
+    "intent": "productUserStatistics",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers' community comprises hundreds of instructors, emphasizing quality interactions and is continually growing every day.", "Our platform, Travers, focuses on quality engagement within a vibrant and expanding community of hundreds of dedicated instructors." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "f06bb51f-36ac-414f-a7ee-13d8d7351b48"
+  }, {
+    "intent": "productUserSupport",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers features a dedicated help section for user support, offering guides and FAQs to help you navigate its features effectively.", "A help section is available in Travers, providing tutorials and support to ensure you can fully utilize the app." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "3b96353d-5d80-4209-b2ed-e1e76ea61b79"
+  }, {
+    "intent": "productMarketingSupport",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers enables instructors to effectively market their services with professional profiles that showcase their expertise, services, and availability. Through these profiles, instructors can share detailed information about their teaching style, experience, and special skills. Additionally, QR codes facilitate easy sharing and client onboarding, while promotional features are being developed to further support instructors in attracting and retaining clients.", "Travers is designed to assist in marketing your sports instruction services. By creating a detailed professional profile, utilizing our calendar management system, and leveraging QR codes for easy client onboarding, you can effectively reach and engage with a wider audience." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "5b930711-e8aa-41b7-9494-1472888d316f"
+  }, {
+    "intent": "productBookingManagement",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers enables direct client bookings through a web booking form, providing a user-friendly interface for managing cancellations. However, it encourages new bookings in available slots instead of direct rescheduling to enhance user satisfaction.", "Clients can book sessions directly with instructors using Travers' streamlined web booking form. The platform simplifies cancellations for both parties but opts for booking new slots over direct rescheduling to maintain a positive client experience." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "978cbf4e-fe34-4ccf-8741-c4546279dd99"
+  }, {
+    "intent": "productProfileSetup",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers supports marketing your services through a comprehensive professional profile, enabling you to highlight your expertise and availability.", "Your professional profile on Travers acts as a marketing tool, allowing you to promote your skills and services effectively to clients." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "ca2e2a1b-18a7-4c26-8359-c39b7effb6b7"
+  }, {
+    "intent": "productFutureFeatures",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers regularly updates to introduce new features, enhance security, and improve user experience, based on user feedback and technological advancements.", "Upcoming features for Travers include advanced analytics, enhanced communication tools, and more, aimed at meeting the evolving needs of our instructor community." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "3e496485-3da6-4e4e-83c5-a780b666fb7b"
+  }, {
+    "intent": "productSchedulingAssistance",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers streamlines booking management for instructors, featuring a comprehensive calendar and scheduling tool that allows for easy setup of availability, direct booking facilitation, and seamless adjustments to teaching schedules.", "With its integrated calendar and scheduling functionality, Travers empowers instructors to manage their bookings efficiently, customize their teaching schedules, and maintain direct communication with clients for optimal coordination." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "5b85a849-d4ed-4dae-b233-56edc86e00d3"
+  }, {
+    "intent": "productGroupLessons",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers is adaptable for instructors who specialize in private lessons, offering the flexibility to manage and schedule one-on-one sessions exclusively. Clients can book lessons for multiple participants, allowing for a form of group lessons within the app's settings, providing versatility in lesson planning.", "While Travers primarily supports private lesson bookings, it accommodates the scheduling of sessions for several participants, effectively facilitating group lessons. This feature ensures instructors focusing solely on private lessons can also use Travers efficiently, with the ability to adjust participant limits in settings." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "038a77f4-160c-4a40-a0e9-d1d3537c207a"
+  }, {
+    "intent": "productPaymentProcessing",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers does not directly handle payment processing, giving instructors the freedom to choose their preferred payment methods for transactions with clients. This approach ensures prompt and direct payments without intermediary delays, allowing for flexibility and control over financial transactions.", "In Travers, financial transactions between instructors and clients are facilitated outside the app, allowing instructors to select the most suitable payment methods for their needs. This ensures secure, direct payments post-lessons, offering complete control over the payment process without the involvement of Travers." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "21bb972f-a8ca-422e-98be-c239cee41c98"
+  }, {
+    "intent": "productLanguageSupport",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Currently, Travers is available in English, with plans to expand its language support in the future. This anticipated expansion aims to cater to a global community of instructors and clients, enhancing the app's accessibility and user experience across different linguistic backgrounds.", "Travers currently supports English, with intentions to broaden its linguistic offerings to include additional languages. This future expansion is designed to make Travers more accessible to a wider, global audience, ensuring a more inclusive experience for instructors and clients worldwide." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "809135ff-91d4-4e31-9cf9-56f7db4acea9"
+  }, {
+    "intent": "objectionPaymentProcessSecurity",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Payments are made directly from client to instructor, ensuring that you have full control over the transaction.", "Travers facilitates direct payments, giving instructors complete control and ensuring transaction security.", "The payment process through Travers is designed for your security, allowing direct and controlled transactions from clients.", "With Travers, payment security is a priority, enabling direct transactions for heightened control and safety.", "Travers ensures secure payment transactions directly between clients and instructors, prioritizing your control over each payment.", "Payments in Travers are securely managed by allowing direct transactions, ensuring instructors maintain control and security." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "e4c747f0-b0cb-4de9-ad2e-82476ec7a112"
+  }, {
+    "intent": "objectionClientAttendanceGuarantee",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "While we cannot guarantee client attendance, our platform encourages commitment by facilitating direct communication and scheduling between you and your clients.", "Travers encourages client commitment through direct scheduling and communication, though attendance cannot be guaranteed.", "While guaranteeing client attendance is beyond Travers' capacity, we foster client responsibility via direct communication and scheduling.", "Travers facilitates commitment by enabling easy communication and scheduling, but absolute client attendance cannot be assured.", "Through Travers, we promote client engagement with direct scheduling, aiming to increase commitment despite not guaranteeing attendance.", "Client attendance is encouraged in Travers through mechanisms that promote direct communication, although it cannot be guaranteed." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "7ee3eaee-d99e-455b-88a8-974a4a99ef55"
+  }, {
+    "intent": "objectionHiddenFeesInquiry",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "There are absolutely no hidden fees. Travers is completely free to use for instructors, with no subscription payments or hidden costs.", "Travers is transparently free for instructors, with no hidden charges or subscription costs involved.", "Using Travers comes with no hidden fees, ensuring a completely free experience for instructors.", "Instructors enjoy Travers without worrying about hidden costs or fees, as our platform is designed to be entirely free.", "Travers guarantees a fee-free experience for instructors, with no surprise charges or hidden expenses.", "Travers maintains a commitment to transparency, offering its services to instructors completely free of hidden fees." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "af60235b-5480-49a5-86cb-75ecd0007eb9"
+  }, {
+    "intent": "objectionMonetizationStrategyQuestion",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Currently, our primary focus is on building a valuable platform for both instructors and clients. Our future monetization plans will aim to introduce advanced features that add value without detracting from your experience.", "Travers is currently focusing on value creation, with plans to eventually introduce premium features that complement the free experience without compromising it.", "While Travers is free for now, we envision future monetization through valuable, advanced features that enhance the user experience.", "Travers operates freely for users, with future revenue strategies aimed at adding valuable features without undermining the free core services.", "Our model involves developing Travers as a free platform initially, with future plans to introduce monetization methods that provide additional value.", "Travers is building its foundation on providing value, with a long-term view towards monetizing through non-intrusive, valuable features." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "f3f8839f-a029-4904-b836-db8c130ef573"
+  }, {
+    "intent": "objectionTrustworthinessReasoning",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers is designed specifically with the needs of sports instructors in mind, offering easy scheduling, and a commitment-free platform to help you focus on teaching.", "Travers stands out by catering specifically to sports instructors with features like easy scheduling, ensuring you can concentrate on your teaching.", "The unique design of Travers, focused on sports instructors' needs and hassle-free scheduling, sets it apart from other apps.", "Travers differentiates itself by offering a specialized, easy-to-use platform dedicated to the unique requirements of sports instructors.", "Choosing Travers means opting for a platform that understands and addresses the specific needs of sports instructors, making teaching the focus.", "Travers offers distinct advantages by specializing in sports instruction, providing tools and features that streamline your teaching process." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "ad25bc38-dc15-4ea7-b176-c841f29f07c4"
+  }, {
+    "intent": "objectionInstructorQualityAssurance",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We require instructors to provide detailed profiles, including their qualifications and experience, to ensure clients can make informed decisions when booking lessons.", "Travers maintains instructor quality by requiring comprehensive profiles that detail each instructor's qualifications and experience.", "To ensure high-quality instructors, Travers mandates detailed profiles showcasing their credentials and teaching history.", "Travers enforces quality standards by requiring instructors to submit profiles that include verifiable qualifications and experiences.", "Instructor vetting in Travers involves detailed profiles, allowing clients to make informed choices based on qualifications and teaching background.", "Quality control on Travers is achieved through the detailed profiling of instructors, ensuring that clients have access to qualified teaching professionals." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "34d4923e-9320-47fb-b5e5-80fd02822ede"
+  }, {
+    "intent": "objectionPrivacyPolicyInquiry",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Your privacy is paramount to us. We only collect necessary information to facilitate bookings and improve your experience on the app.", "Travers prioritizes your data privacy, collecting only what's essential for bookings and enhancing user experience, with stringent protections in place.", "We're committed to safeguarding your privacy in Travers, limiting data collection to only what is necessary for service provision and app enhancement.", "Travers' privacy policy is built on the minimal collection of data, essential for service functionality and user experience improvement, ensuring robust data protection.", "Your data privacy is a top concern for Travers, with policies focusing on collecting only necessary information for operational efficiency and service improvement.", "In Travers, we ensure data privacy by collecting minimal, essential information, using it solely to facilitate bookings and enhance the platform." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "9a1f83d8-e0f7-4e0d-acce-906270ac4e4a"
+  }, {
+    "intent": "objectionUserBaseSizeQuestion",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "While we're constantly growing, we focus on the quality of connections between instructors and clients rather than just the numbers. Our community already includes hundreds of instructors and is expanding every day.", "Travers is continually expanding, prioritizing meaningful interactions over mere numbers, with a vibrant community of hundreds of instructors growing daily.", "Our user community in Travers is robust and on the rise, focusing on the quality of our instructor-client network, which includes hundreds of dedicated instructors.", "Though exact numbers vary, Travers emphasizes quality engagement, boasting a growing community that includes hundreds of active instructors.", "Travers' user base is steadily increasing, with a strong emphasis on cultivating quality relationships within our diverse community of instructors.", "Our platform, Travers, enjoys a dynamic and expanding user base, emphasizing the depth of our instructor-client connections over sheer quantity." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "565689e3-9858-4d18-af41-4dced2cc9620"
+  }, {
+    "intent": "objectionDirectPaymentSecurityRisk",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Direct payments allow for immediate and full compensation after each lesson. We advise using secure payment methods and are always here to assist should any issues arise.", "Travers supports the security of direct payments, recommending safe transaction methods and providing assistance for any concerns.", "Direct payments in Travers are designed with security in mind, ensuring instructors receive prompt payment while advising on safe transaction practices.", "The direct payment system in Travers prioritizes security, allowing for swift compensation while offering support for secure transaction methods.", "Travers facilitates secure direct payments, advising instructors to use reliable payment methods and offering help for any payment issues that may occur.", "In Travers, direct payments to instructors are managed securely, with recommendations for safe payment practices and support available for any transaction concerns." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "9de679c0-f3bb-46ce-a450-cd0cc06233dc"
+  }, {
+    "intent": "objectionDisputeResolutionProcess",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We encourage direct resolution between parties, but our support team is available to assist with disputes, ensuring fair outcomes for both instructors and clients.", "Travers recommends resolving disputes directly, with our support team ready to facilitate fair resolutions when needed.", "In cases of instructor-client disputes, Travers encourages amicable solutions but offers support team assistance for unresolved issues.", "Travers aids in the dispute resolution process by suggesting direct communication, with our team available to help ensure equitable outcomes.", "For any disputes arising between instructors and clients, Travers provides guidance for direct resolution and support intervention when necessary.", "Disputes in Travers are ideally resolved between the involved parties, with our support team on standby to assist in achieving fair and amicable outcomes." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "14e5e327-cda3-43a6-b0c7-cbacf3d561e8"
+  }, {
+    "intent": "objectionBookingControlQuestion",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "You have complete control over your schedule and can manage bookings directly, allowing you to accept or decline lesson requests based on your preferences.", "Travers gives you the autonomy to manage your lesson bookings, enabling you to selectively approve or decline requests.", "With Travers, managing who books your lessons is in your hands, offering the ability to filter and select lesson requests.", "Travers empowers you to control your booking schedule, with options to accept or reject bookings as per your discretion.", "You hold the reins on lesson bookings within Travers, allowing for selective acceptance based on client fit and preferences.", "In Travers, you can fully manage your bookings, giving you the freedom to choose which lesson requests to accept or decline." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "550fb902-4d34-447b-8372-e1e49ff34fdc"
+  }, {
+    "intent": "objectionClientReviewsModeration",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Client reviews are an essential part of Travers, helping to build trust within the community. We collect reviews manually to ensure they are fair and accurate.", "Travers values client reviews, manually moderating them for authenticity and fairness, enhancing community trust.", "Yes, clients can leave reviews on Travers, and we manually check them to maintain fairness and accuracy.", "Client feedback is encouraged in Travers, with a manual review process in place to ensure all testimonials are genuine and constructive.", "In Travers, client reviews contribute to community trust, subject to manual moderation for ensuring their relevance and truthfulness.", "Clients can review your services on Travers, with each review being manually moderated to uphold fairness and accuracy within the community." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "ff68bb09-bbc6-422b-9c4d-1f0ac9190500"
+  }, {
+    "intent": "objectionLastMinuteCancellationPolicy",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We recommend establishing a clear cancellation policy with your clients. Our platform facilitates communication to help manage such situations effectively.", "Travers advises setting a transparent cancellation policy with clients, supported by our platform's communication tools for handling sudden cancellations.", "For last-minute cancellations, Travers helps you manage by encouraging clear cancellation policies and effective client communication.", "Travers provides mechanisms to effectively deal with last-minute cancellations through clear policies and direct communication with clients.", "In the event of a sudden cancellation, Travers supports you with tools for communication, emphasizing the importance of a defined cancellation policy.", "Travers facilitates the management of last-minute cancellations by urging instructors to establish and communicate clear cancellation terms to clients." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "36e0687a-138b-4220-b4ed-fb4ab98053a5"
+  }, {
+    "intent": "objectionWeatherCancellationHandling",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "For weather-related cancellations, we suggest being flexible and using the app to reschedule lessons. Clear communication with your clients is key.", "Travers recommends flexibility in rescheduling lessons affected by weather, emphasizing the importance of direct client communication for smooth coordination.", "In cases of weather-related cancellations, Travers aids in rescheduling, advocating for open communication with clients for easy rebooking.", "Travers handles weather-impacted cancellations by providing features to reschedule lessons, underlining clear communication as crucial.", "For lessons canceled due to weather, Travers encourages using its rescheduling features and maintaining clear dialogue with clients for convenience.", "Travers supports instructors in weather-related cancellations by offering rescheduling options, stressing the value of transparent communication with clients." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "b2e3e884-bdd6-4082-bdee-aaf3d41eed63"
+  }, {
+    "intent": "objectionContactInformationVisibility",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Only the necessary contact information you choose to share is visible to clients after booking to facilitate lesson arrangements and communications.", "Travers ensures that only the contact information you opt to share is accessible to clients, supporting lesson coordination while respecting your privacy.", "In Travers, you have control over which personal contact details are visible to clients, ensuring privacy and effective communication.", "Your control over personal information in Travers lets you decide what contact details to share with clients for necessary communications.", "Travers respects your privacy by making only selected contact information available to clients, based on your preferences for communication.", "The visibility of your contact information in Travers is up to you, with clients seeing only what you choose to share for lesson coordination purposes." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "c1572aa4-33d4-40f3-a715-81d997ee5b90"
+  }, {
+    "intent": "objectionInstructorSupportOffering",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We offer comprehensive support to instructors, including a help center, email support, and resources to help you maximize your use of the app.", "Travers provides extensive instructor support through a dedicated help center, email assistance, and a wealth of resources for app optimization.", "Instructors in Travers benefit from a wide range of support options, including detailed help center access, email support, and valuable app usage resources.", "Comprehensive support for Travers instructors includes help center access, email assistance, and various resources aimed at enhancing your app experience.", "Travers offers robust support to instructors with a help center, email support team, and resources designed to improve your teaching and app usage.", "Support for instructors on Travers encompasses a help center, email support, and additional resources to ensure effective and enjoyable app utilization." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "565f24e2-eb90-4f8c-af65-d28787a9b83f"
+  }, {
+    "intent": "objectionEmergencySituationsProtocol",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We advise having a clear emergency plan and communicating it with your clients.", "Travers recommends establishing and sharing an emergency response plan with clients for lesson safety.", "For lesson emergencies, Travers advises creating a clear plan and communicating it effectively to clients.", "Travers suggests instructors have a defined emergency strategy, ensuring it's communicated to clients for preparedness.", "To handle emergencies, Travers emphasizes the importance of having a predefined plan and making sure clients are aware of it.", "Travers encourages instructors to develop and communicate an emergency plan to clients, ensuring safety and preparedness during lessons." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "32210d59-e5e8-405d-88bb-84ecb7807648"
+  }, {
+    "intent": "objectionDailyLessonsLimitation",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Yes, our calendar management feature allows you to set your availability, including limiting the number of lessons you wish to teach each day.", "Travers enables you to customize your daily teaching schedule, including setting limits on the number of lessons to maintain work-life balance.", "With Travers, you can easily control your daily lesson count through our calendar management, ensuring you teach only as much as you prefer.", "Travers' calendar feature supports setting daily lesson limits, giving you full control over your teaching schedule each day.", "You have the flexibility in Travers to determine how many lessons you conduct daily, thanks to our customizable calendar management.", "Travers provides the capability to limit your daily lessons, allowing for personalized schedule management through our calendar feature." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "ab2769a2-f175-47f4-9979-dc3f7ca07e2a"
+  }, {
+    "intent": "objectionInstructorInsuranceRequirement",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "While Travers does not require you to have insurance to use the app, we recommend having appropriate coverage for your peace of mind and protection.", "Travers doesn't mandate insurance for app usage, but we advise securing coverage for your own security and confidence.", "No insurance requirement is enforced by Travers, yet obtaining it is suggested for your safeguarding and tranquility.", "Using Travers doesn't obligate insurance coverage, but for your protection and ease of mind, we recommend it.", "While not a requirement, having insurance is recommended by Travers to ensure you're protected while offering your teaching services.", "Insurance isn't compulsory for Travers instructors, but we advocate for having appropriate coverage to protect yourself and your teaching practice." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "7eb065c1-e88a-4572-ae91-5aefbbfb86d7"
+  }, {
+    "intent": "objectionSchedulingCustomizabilityQuery",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Our scheduling feature is highly customizable, allowing you to set specific times, dates, and lesson durations that work best for you and your clients.", "Travers offers a flexible scheduling system, enabling you to tailor lesson times, dates, and durations to suit your preferences.", "With Travers, scheduling is highly adaptable, providing the freedom to customize your teaching calendar to fit your specific needs.", "Travers' scheduling feature allows for extensive customization, ensuring you can align lesson planning with your personal availability.", "The Travers app accommodates a high degree of scheduling customization, allowing you to set your calendar exactly how you need it.", "In Travers, you have the ability to personalize your schedule extensively, making it easy to adjust lesson times, dates, and lengths according to your requirements." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "a7aae686-5f95-45a5-afc3-ceaf2df4b65a"
+  }, {
+    "intent": "objectionAppUsabilityConcern",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Absolutely, Travers is designed to be user-friendly and intuitive, making it easy for instructors of all tech skill levels to manage their bookings and profiles.", "Travers is specifically created to be accessible and straightforward, ensuring ease of use regardless of your tech proficiency.", "Even with limited tech experience, you'll find Travers to be exceptionally user-friendly and simple to navigate.", "Travers caters to users of all tech backgrounds, featuring an intuitive interface that makes managing bookings effortless.", "No worries if you're not tech-savvy; Travers offers a clear and easy-to-understand platform for all instructors.", "Travers ensures a smooth user experience for everyone, making it ideal for instructors regardless of their tech skills." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "9bd93f83-337c-4f3b-b2b1-56c3245636cc"
+  }, {
+    "intent": "objectionSteadyClientBaseQuery",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers can complement your existing client base by offering streamlined scheduling and the potential to reach new clients interested in your sports.", "Even with a loyal client base, Travers enhances your operations with efficient scheduling and opens doors to new clients seeking your expertise.", "Travers is not just for finding new clients; it streamlines your scheduling process, complementing your current client interactions.", "Travers offers value beyond client acquisition by simplifying your booking process, potentially broadening your market reach.", "For instructors with established clients, Travers provides tools to further streamline your business and attract clients seeking your specific sports instruction.", "Beyond your current client base, Travers serves as a tool to optimize scheduling and explore opportunities with clients newly interested in your offerings." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "be4a9cd4-2a75-4f24-a93a-7035ab58b0f0"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "5662ec2c-f85a-43e0-9286-46d4775bdc2a"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "68e7589b-612c-4687-bdd2-83a184bdd3ab"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001
+  }
+}

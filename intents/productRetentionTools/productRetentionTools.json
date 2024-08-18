@@ -1,0 +1,10 @@
+{
+  "name": "2a75af25-e2c0-4cfc-b859-4a9ef055a659",
+  "displayName": "productRetentionTools",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 7
+}

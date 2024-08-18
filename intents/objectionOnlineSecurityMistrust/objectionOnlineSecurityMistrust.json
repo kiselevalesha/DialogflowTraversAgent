@@ -1,0 +1,10 @@
+{
+  "name": "e9c83e0c-3f4f-4c53-b394-43f6cf915b99",
+  "displayName": "objectionOnlineSecurityMistrust",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bdcda9f2-0cb7-4203-81bb-22fa66e1ede7",
+  "displayName": "productLanguageSupport",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "language",
+    "entityType": "@sys.language"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 7
+}

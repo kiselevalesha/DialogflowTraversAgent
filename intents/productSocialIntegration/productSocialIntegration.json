@@ -1,0 +1,10 @@
+{
+  "name": "4d6d2f1f-4901-4689-8014-8617f6b7a72e",
+  "displayName": "productSocialIntegration",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 7
+}

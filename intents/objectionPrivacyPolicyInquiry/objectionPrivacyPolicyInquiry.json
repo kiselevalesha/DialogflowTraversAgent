@@ -1,0 +1,13 @@
+{
+  "name": "966ab847-d713-41c8-bbdf-248d98ef1f1e",
+  "displayName": "objectionPrivacyPolicyInquiry",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

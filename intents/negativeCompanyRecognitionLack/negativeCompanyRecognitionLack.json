@@ -1,0 +1,10 @@
+{
+  "name": "bf2b81ee-33e1-4370-aca0-5b2a2aeb689a",
+  "displayName": "negativeCompanyRecognitionLack",
+  "parameters": [ {
+    "id": "ordinal",
+    "entityType": "@sys.ordinal"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 21
+}

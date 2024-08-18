@@ -1,0 +1,13 @@
+{
+  "name": "01ddfd42-767b-4681-abe3-7117a8bee6d9",
+  "displayName": "objectionPaymentProcessSecurity",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

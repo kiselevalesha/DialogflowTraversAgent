@@ -1,0 +1,10 @@
+{
+  "name": "907855be-6826-4b2c-b2d0-fe7b791b2ff8",
+  "displayName": "negativeDependencyReductionGoal",
+  "parameters": [ {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 21
+}

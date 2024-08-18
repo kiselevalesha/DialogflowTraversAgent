@@ -1,0 +1,10 @@
+{
+  "name": "5b95a516-a843-49bb-ade0-ea7b380c1e60",
+  "displayName": "objectionWeatherCancellationHandling",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

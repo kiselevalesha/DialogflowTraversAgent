@@ -1,0 +1,10 @@
+{
+  "name": "f3db3a5c-30d6-4144-a67c-b88a33559ac6",
+  "displayName": "objectionDisputeResolutionProcess",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

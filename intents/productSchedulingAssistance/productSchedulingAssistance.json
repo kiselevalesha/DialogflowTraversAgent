@@ -1,0 +1,13 @@
+{
+  "name": "3ddbde10-debc-4182-b7ef-71d81d411bfc",
+  "displayName": "productSchedulingAssistance",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 7
+}

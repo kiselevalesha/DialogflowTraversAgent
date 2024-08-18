@@ -1,0 +1,10 @@
+{
+  "name": "3939b57e-02df-4606-b181-ef5978b5be9a",
+  "displayName": "objectionBookingControlQuestion",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

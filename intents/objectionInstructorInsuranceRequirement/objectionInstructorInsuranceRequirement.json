@@ -1,0 +1,10 @@
+{
+  "name": "7d87c85a-de81-460e-a78b-a5466dcfbe35",
+  "displayName": "objectionInstructorInsuranceRequirement",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}
