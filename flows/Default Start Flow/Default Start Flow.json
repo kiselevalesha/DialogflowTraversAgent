@@ -563,6 +563,524 @@
       }
     },
     "name": "be4a9cd4-2a75-4f24-a93a-7035ab58b0f0"
+  }, {
+    "intent": "objectionProfileSetupTime",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Setting up your profile is quick and straightforward. In just a few minutes, you can enter your details and start connecting with clients.", "Creating your Travers profile is a swift and easy process, enabling you to quickly start engaging with clients.", "You'll find setting up your profile on Travers to be a quick, hassle-free process, getting you ready to connect with clients in no time.", "Initiating your presence on Travers is designed to be efficient, allowing for rapid setup and immediate connection with potential clients.", "The setup process for your Travers profile is designed for your convenience, requiring minimal time to start showcasing your services.", "Getting started on Travers is straightforward and quick, ensuring you can begin connecting with clients without significant time investment." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "60e745d4-dcc1-4fc1-8ff5-601a7996584b"
+  }, {
+    "intent": "objectionFindingClientsConcern",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Our platform is growing, and while we cannot guarantee immediate bookings, being active and maintaining a detailed profile can significantly increase your visibility to potential clients.", "While immediate bookings aren't guaranteed, actively engaging on Travers and optimizing your profile enhances your chances of attracting new clients.", "The success on Travers can vary, but by actively maintaining your profile and engaging with the platform, you increase your visibility and potential for new clients.", "Though we can't promise instant client influx, your active participation and profile completeness on Travers are key to attracting bookings.", "In the growing Travers community, visibility to potential clients is boosted by how actively and comprehensively you manage your profile.", "Travers is continually expanding, and while immediate client connections can't be guaranteed, an active and detailed profile is your best strategy for attracting new bookings." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "ff6a1d7f-8fa6-4d1d-8eb6-3087ae86ae1e"
+  }, {
+    "intent": "objectionDigitalPaymentWorries",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We understand your concerns. We recommend using trusted payment methods and are here to assist with any concerns.", "Your concern is valid, and we assure you that Travers recommends secure payment methods for worry-free transactions, with support available for any queries.", "Digital payment security is a priority for us on Travers, encouraging the use of reputable payment channels and offering assistance for any payment-related concerns.", "Travers takes digital payment security seriously, advising the use of trusted methods and providing support to address any of your payment concerns.", "While using digital payments on Travers, rest assured we recommend only secure methods and are here to support you with any concerns that arise.", "On Travers, we understand the importance of secure digital payments, suggesting reliable payment options and offering our assistance for any issues." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "bab3e31c-8ce1-4a21-ac9d-04162de145c4"
+  }, {
+    "intent": "objectionAppFunctionalityConcern",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Our team is dedicated to ensuring Travers runs smoothly across various devices. Should you encounter any issues, our support team is ready to assist.", "If Travers encounters issues on your device, our committed team is on standby to provide assistance and ensure a smooth experience.", "For any Travers functionality problems on your device, our dedicated support team is here to help resolve them promptly.", "Should Travers not perform as expected on your device, rest assured that our support team is ready to troubleshoot and assist you.", "Our support team is available to address any Travers operational issues on your device, ensuring you can continue to use the app effectively.", "In case of technical difficulties with Travers on your device, our support team is prepared to assist and ensure the app runs seamlessly for you." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "2fbc73a6-7108-4f2a-9004-b928af9a24e5"
+  }, {
+    "intent": "objectionClienteleIncreasePossibility",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Yes, Travers offers you the opportunity to connect with clients actively seeking the sports instruction you offer, potentially increasing your clientele.", "Travers is designed to help you expand your client base by connecting you with individuals looking for your sports instruction, offering potential for growth.", "With Travers, you have a strong opportunity to attract new clients and grow your teaching business, thanks to our platform's reach.", "Travers provides a pathway to increase your clientele by showcasing your offerings to clients in search of sports instruction.", "By leveraging Travers, you're positioned to potentially boost your number of clients, thanks to our dedicated platform for sports instruction.", "The Travers platform is an effective tool for reaching new clients interested in your sports instruction, aiding in your business expansion." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "b589b542-6a67-4354-8ad3-8b5f67f60b9d"
+  }, {
+    "intent": "objectionAdministrativeWorkloadWorry",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers is designed to reduce your administrative workload by streamlining booking, giving you more time to focus on teaching.", "Travers specifically aims to lighten your administrative load, simplifying booking processes so you can dedicate more time to what you do best—teaching.", "Rather than adding to your tasks, Travers simplifies them, making the administrative aspect of your teaching more manageable.", "Travers helps streamline your administrative duties, not add to them, ensuring you spend less time on booking management and more on teaching.", "With Travers, the goal is to ease your administrative burden, offering streamlined booking management to free up your time for teaching.", "Travers won't overwhelm you with admin work; it's built to simplify those tasks, allowing you to focus more on delivering quality teaching." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "2aab0f5e-2af0-4116-a077-b7f0a756176c"
+  }, {
+    "intent": "objectionLongTermCommitmentQuestion",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "No, there are no long-term commitments required. You can use the app as much or as little as you like, based on your needs and schedule.", "Travers requires no long-term commitment, offering you the flexibility to use the app as it suits your needs and teaching schedule.", "There's no need to worry about long-term commitments with Travers; use the platform as often or as sparingly as your schedule allows.", "Travers comes with zero long-term obligations, allowing you to tailor its use to your immediate needs without any binding commitments.", "You're not bound by any long-term contracts with Travers, ensuring you can freely manage how and when you use the app.", "With Travers, you're free from long-term commitments, enabling you to adjust your usage of the app to perfectly fit your teaching life." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "b46260b3-4e5f-4367-b9ac-0c7c7d0393a0"
+  }, {
+    "intent": "objectionAvailabilityUpdateFrequency",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "You have full control over your schedule and can update your availability as often as needed to reflect your current teaching capacity.", "Travers allows you to adjust your availability with ease, ensuring your schedule always reflects your current capacity for teaching.", "With Travers, you're in control, able to frequently update your availability to suit your evolving teaching schedule.", "Updating your availability in Travers is straightforward and can be done as often as your teaching commitments require.", "Travers provides the flexibility to regularly adjust your availability, accommodating the dynamic nature of your teaching engagements.", "Your teaching schedule in Travers is fully under your control, with the ability to update your availability as your teaching capacity changes." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "fb1ae1ef-5379-4d67-949b-f5f4ae0baaa5"
+  }, {
+    "intent": "objectionPreferringDirectDealings",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers respects the importance of direct interaction and is designed to enhance this by making the booking processes more efficient, allowing more time for teaching.", "Travers is crafted to complement direct client interactions by streamlining administrative tasks, thereby enriching the time spent on teaching.", "While you cherish direct client connections, Travers enhances these interactions by simplifying the booking aspect, giving you more time for what truly matters.", "Travers enhances direct dealings by making scheduling more efficient, aiming to free up your time for more personal interaction with clients.", "Understanding the value of personal touch, Travers aims to support this by eliminating scheduling hassles, allowing for deeper client engagement.", "Travers serves to augment your direct client relationships by efficiently managing bookings, ensuring your focus remains on quality teaching." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "1652b280-52cf-429b-ba24-206b343b88ff"
+  }, {
+    "intent": "objectionPastAppBadExperiences",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We're sorry to hear that. Travers is committed to providing a positive experience, with support for instructors and features designed to address common concerns.", "Travers stands apart by prioritizing instructor support and addressing feedback proactively, aiming to rectify common app-related issues.", "Understanding your concerns, Travers dedicates itself to a superior user experience, focusing on reliability and responsive support.", "Unlike past experiences, Travers is built on the foundation of positive engagement and comprehensive support to tackle common app challenges.", "Travers is designed to overcome the shortcomings of similar apps, with a commitment to user satisfaction and continuous improvement.", "Acknowledging past app frustrations, Travers aims to deliver a markedly better experience through dedicated support and user-centric features." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "8613343b-6245-4cfb-b5ce-69bded4cdeb5"
+  }, {
+    "intent": "objectionSchedulingUnderstandingDoubt",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers offers a flexible scheduling tool that can be tailored to your unique needs, providing you with full control over your teaching calendar.", "Travers' scheduling functionality is designed for adaptability, ensuring it can be customized to meet even the most complex scheduling demands.", "With its flexible scheduling options, Travers is built to accommodate the varied and unique scheduling needs of all instructors.", "Travers understands the diversity of scheduling needs and offers customizable tools to ensure your calendar works exactly how you need it to.", "Acknowledging the uniqueness of each instructor's schedule, Travers provides a highly adaptable scheduling system to fit your specific requirements.", "Travers empowers instructors with flexible scheduling features, making it possible to tailor your teaching calendar to suit your individual needs." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "7e9abd54-ae69-4565-a299-b7eab235fa3e"
+  }, {
+    "intent": "objectionIncomeDependenceConcern",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers aims to supplement your teaching opportunities, not replace your existing methods. It's an additional tool to help you connect with more clients and manage your business.", "Travers is envisioned as a supportive tool, enhancing rather than replacing your existing teaching channels, thus broadening your client reach without creating dependency.", "Our goal with Travers is to provide an auxiliary means to boost your teaching income, complementing, not overtaking, your traditional methods.", "Travers serves as an extension to your teaching business, offering extra opportunities without intending to be the sole source of your income.", "Utilizing Travers should enrich your income sources by offering additional client connections, never intending to make you solely dependent on the app.", "Travers supplements your income by providing extra teaching opportunities, designed to enhance rather than replace your current income streams." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "62740eaf-72f0-4e68-a227-c6931249e4cf"
+  }, {
+    "intent": "objectionCommissionRateConcerns",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers is completely free for instructors, with no commission taken from your earnings. Our priority is to support instructors and enhance the teaching experience.", "Unlike other platforms, Travers stands out by not taking any commission, ensuring instructors keep 100% of their earnings.", "Travers differentiates itself by being completely free for instructors, with no commissions deducted from your income.", "You can rest assured that Travers does not impose any commission on instructors, allowing you to retain all your earnings.", "With Travers, commission concerns are unfounded as we prioritize empowering instructors without taking a slice of their earnings.", "Travers maintains a commitment to supporting instructors without the burden of commissions, ensuring your earnings remain entirely yours." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "3405f0d2-e9fc-4135-87ff-58727481dcfd"
+  }, {
+    "intent": "objectionHandlingAppNoShows",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We understand the frustration of no-shows. Our platform encourages reliable bookings and clear communication, helping to minimize such occurrences.", "Travers actively works to reduce no-shows through reliable booking systems and fostering clear communication between instructors and clients.", "To address the challenge of no-shows, Travers encourages a culture of commitment and open dialogue, aiming to lower such instances.", "Travers helps minimize no-shows by promoting dependable bookings and ensuring both parties communicate effectively.", "Understanding the impact of no-shows, Travers implements strategies to encourage attendance and facilitate communication, reducing inconvenience.", "Our approach on Travers is to deter no-shows through a reliable booking process and clear, preemptive communication between instructors and clients." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "6e0586eb-d86e-4919-bda8-00a5e55c206e"
+  }, {
+    "intent": "objectionCompetitionWorthSkepticism",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "While there may be other instructors on Travers, our platform also increases your exposure to potential clients, enhancing your opportunity to grow your client base.", "Travers is designed to not just introduce competition but to significantly expand your visibility among clients, presenting new growth opportunities.", "Joining Travers actually opens up broader avenues for client acquisition, outweighing the competitive aspect by enhancing your market exposure.", "Travers aims to balance competition with greater visibility, providing you with tools and opportunities to differentiate and grow your clientele.", "The essence of Travers is to boost your exposure to potential clients, effectively turning the competitive environment into an opportunity for growth.", "Although competition exists, Travers leverages it to your advantage by broadening your reach and opening up more opportunities to attract clients." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "3518af9a-9396-4cdc-89c0-b48a3aa7186b"
+  }, {
+    "intent": "objectionOnlineSecurityMistrust",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Security is a top priority for Travers. We employ robust measures to protect your data and transactions, ensuring a safe and reliable experience.", "Travers prioritizes your security, using advanced protocols to safeguard personal and transactional data, providing a trustworthy platform.", "Your data's security on Travers is ensured through stringent protective measures, giving you confidence in your transactions and interactions.", "Travers employs comprehensive security strategies to protect user data, ensuring a secure online environment for your teaching business.", "We understand security concerns and address them head-on in Travers with strong safeguards for your data and financial transactions.", "In Travers, we're committed to security excellence, employing top-tier measures to ensure the integrity and safety of your data and activities." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "9d66b05e-20cd-4d7f-bd88-39d3c2be01a7"
+  }, {
+    "intent": "objectionTeachingMethodsPrivacy",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers values your privacy and intellectual property. You have full control over the information you share about your teaching methods and services.", "On Travers, the confidentiality of your teaching methods is respected, offering you autonomy over how much you disclose.", "Travers supports your desire for privacy around your teaching methods, allowing you to choose what to share.", "Your teaching strategies can remain as private as you wish on Travers, with full control over the information you divulge.", "In Travers, safeguarding your teaching methodology's privacy is our concern, ensuring you decide what details to make public.", "Travers empowers you to keep your teaching techniques private, providing flexibility in how much about your methods you share." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "61615f94-8093-46fc-8253-28a58501c527"
+  }, {
+    "intent": "negativeSwitchingReadinessAbsence",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I understand your concern about existing contracts. Travers complements your current arrangements by offering a platform to manage bookings directly with clients, potentially increasing your visibility and client base without interfering with existing contracts, all without any fees.", "I get where you're coming from regarding your current arrangements. Travers is designed to enhance your existing setup by providing a direct line to clients for booking, which could help grow your visibility and client list without conflicting with your current contracts or incurring any costs.", "Your concerns are understandable. Travers is here to add value to what you're already doing, offering a way to handle bookings directly with clients which might broaden your exposure and clientele without disrupting your existing arrangements or adding fees.", "We recognize your position on current commitments. Travers is built to supplement your present operations with a tool for direct client bookings, aiming to expand your reach and customer base without clashing with your ongoing contracts and at no extra charge.", "Acknowledging your current contracts, Travers aims to complement rather than complicate your setup, providing a service for directly managing client bookings that could enhance your profile and client numbers without violating existing agreements, all free of charge.", "Understanding your situation with existing commitments, Travers seeks to enrich your current processes by offering a straightforward platform for client bookings, which could potentially increase both visibility and client numbers without interfering with your existing contracts, and without any fees." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "983af8b4-6256-44cd-991e-dab677daf8ad"
+  }, {
+    "intent": "negativeBenefitPerceptionLack",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers offers a unique platform specifically for sports instructors to save time and money on marketing, directly connect with clients and manage bookings. It's a comprehensive tool designed to streamline your administrative tasks, letting you focus more on teaching. We encourage you to try it out and see how it can simplify your workflow and increase your client base.", "Travers is tailored for sports instructors like you, offering a way to reduce marketing costs and time, directly connect with clients, and manage bookings efficiently. It simplifies administrative duties so you can focus more on teaching, potentially expanding your client base.", "With Travers, you gain access to a specialized platform that cuts down on marketing expenses and time, allows direct interaction with clients, and simplifies booking management. It’s designed to ease administrative tasks, freeing you to concentrate on what you do best: teaching.", "Travers provides a unique solution for sports instructors, aimed at saving marketing time and costs, facilitating direct client connections, and streamlining bookings. It’s a comprehensive service meant to minimize your admin work, enabling you to focus on teaching and growing your client list.", "Travers delivers a platform specifically crafted for instructors, helping save on marketing efforts and time, directly connecting you with clients, and making booking management smoother. It's all about reducing your workload on admin tasks to allow you more time to teach and expand your clientele.", "The Travers platform is designed with sports instructors in mind, providing tools to save on marketing, directly connect with clients, and manage bookings more efficiently. It aims to streamline the admin side of your work, so you can dedicate more time to teaching and enlarging your client base." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "dfefed2f-0ee2-43f0-9742-79c64ad71dc4"
+  }, {
+    "intent": "negativeLong-termCommitmentAvoidance",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers requires no long-term commitment. It's a free-to-use platform designed to provide immediate value through easier scheduling, direct payments, and better client management, all with the flexibility to use as much or as little as you like.", "Travers doesn't lock you into any long-term commitments. It's a free platform that's been designed for your immediate benefit, offering easy scheduling, direct client payments, and improved client management, all with the freedom to use it as much or as minimally as suits you.", "With Travers, there's no need for long-term commitments. You can use our free platform to gain immediate advantages, including simpler scheduling, direct payments, and better client management, all according to your own usage preferences.", "No long-term commitment is necessary with Travers. Our platform is free and built to offer you instant benefits like easier schedule management, direct payments from clients, and enhanced client management, with the flexibility to use it as fits your needs.", "Travers is all about flexibility without long-term commitments. The platform is free to use and provides instant value through streamlined scheduling, direct payments, and effective client management, allowing you to decide how much or little to use it.", "There's no long-term obligation with Travers. It's a complimentary platform designed to immediately improve your business with more straightforward scheduling, direct payments, and superior client management, offering you the complete freedom to use it to your liking." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "a73841b8-2dad-4f29-9be8-72143f7bfad5"
+  }, {
+    "intent": "negativeCustomizationNeedEmphasis",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers is tailored for action sports instructors, offering specialized features like professional profiles, detailed booking management, and location-based client connections. We're constantly updating our app based on instructor feedback to meet specific needs.", "Travers has been developed with action sports instructors in mind, providing specialized features such as personalized profiles, comprehensive booking management, and specific client connections based on location. We continuously refine our app in response to feedback from instructors to ensure it meets your unique requirements.", "Travers is designed for instructors like you, offering customization through features like unique professional profiles, in-depth booking management, and client connections based on geographical location. We actively update the app according to the feedback we receive, aiming to cater to your specific needs.", "The Travers platform is customized for action sports instructors, with features that include customizable professional profiles, detailed management of bookings, and client connections tailored by location. We're committed to evolving the app based on the feedback from our users to suit your specific preferences.", "Travers offers a customizable experience for action sports instructors, featuring options for personalized profiles, detailed booking management, and client connections based on location. We make ongoing updates to the app, guided by feedback from instructors, to ensure it serves your individual needs effectively.", "With Travers, you'll find a platform that's adaptable to your needs as an action sports instructor, including features for creating personal profiles, managing bookings in detail, and making location-based client connections. We continually update our app with the aim of meeting your specific needs, based on the input we receive from instructors." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "7fcf2841-e595-4b4c-9707-da4ea6765686"
+  }, {
+    "intent": "negativeLuxuryJustificationChallenge",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We understand budget constraints, which is why Travers is free to use. It's designed to be an accessible tool to help instructors manage their bookings and payments more efficiently, potentially increasing income without incurring extra costs.", "Understanding your concern with budget, Travers is actually free, making it a practical resource for instructors to efficiently manage bookings and payments, potentially helping to boost your income without extra financial burden.", "Acknowledging budgetary limitations, it's worth noting that Travers doesn't cost anything to use. It's crafted to assist instructors in handling their bookings and payments more effectively, which could lead to increased earnings without any additional costs.", "We're aware of financial constraints, which is why Travers is available at no cost. It serves as a valuable tool for instructors, aiming to streamline the management of bookings and payments, potentially enhancing your revenue without adding to your expenses.", "Considering your budget concerns, Travers is designed to be a cost-free solution to help instructors streamline their booking and payment processes, which might result in increased income without the need for extra expenditure.", "With an understanding of budgetary considerations, Travers is offered for free. It's intended as an accessible resource to facilitate more efficient booking and payment management for instructors, with the potential to improve income without necessitating additional costs." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "1aee12b4-a67b-4e56-a0b6-8e5e571bb1e6"
+  }, {
+    "intent": "negativeDependencyReductionGoal",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers aims to simplify rather than complicate your business operations by consolidating lesson scheduling, reducing your need for multiple external providers.", "Travers is designed to streamline your operations by centralizing lesson scheduling, effectively reducing your need to rely on multiple external services.", "With Travers, you can simplify your business processes by consolidating the scheduling of lessons, thereby decreasing your reliance on various external providers.", "Travers serves to make your business operations more straightforward by integrating lesson scheduling into one platform, cutting down on the necessity for multiple external services.", "The aim of Travers is to ease your business management by bringing together lesson scheduling in one place, thus minimizing your dependence on a range of external providers.", "Travers seeks to declutter your business tasks by offering a unified system for scheduling lessons, reducing your requirement for engaging with numerous external services." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "62f0fe0c-3b0a-41cd-bc79-b38d2a5011cf"
+  }, {
+    "intent": "negativeBetterReviewsSearch",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We value feedback and continuously improve based on user reviews. While we strive for excellence, we invite you to experience Travers firsthand to see how it can benefit your teaching practice.", "We highly regard user feedback and are committed to evolving based on their insights. Although we aim for the highest standards, we encourage you to try Travers yourself to witness its positive impact on your instruction.", "User feedback is a cornerstone of our improvement process. We continually strive for perfection, but experiencing Travers personally will best show you its advantages for your teaching.", "Feedback from users like you helps shape our updates and enhancements. We aim for nothing less than excellence and invite you to see the benefits of Travers for your teaching practice through direct experience.", "At Travers, user reviews guide our continuous improvement efforts. While we pursue excellence in all we do, firsthand experience with our platform is the best way to understand how it can support your instructional needs.", "We put a high value on the feedback from our users, using it to guide our ongoing enhancements. Our goal is excellence, and we suggest experiencing Travers for yourself to see its potential benefits to your teaching." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "832088d1-1e30-4df4-a99c-6a41eab5027c"
+  }, {
+    "intent": "negativeResearchBeforeChange",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We encourage doing your due diligence. Travers offers detailed information on our website, and our team is available to answer any questions you may have. We're confident in the value Travers can add to your instructional services.", "We support thorough research before making any decisions. Travers provides extensive information on our platform, and our team is ready to address any queries you might have, ensuring you see the value it offers to your teaching.", "Your approach to making informed changes is commendable. On our website, you'll find detailed information about Travers, and we're here to answer any questions, confident that you'll find our platform valuable.", "We appreciate the importance of due diligence. You'll find comprehensive details about Travers on our website, and our team is on hand for any inquiries, confident in the positive impact it can have on your services.", "It's wise to research before changing. Travers offers thorough information online, and our support team is available to clarify any points, ensuring you understand the benefits it can bring to your instruction.", "Doing your homework is key. Travers is transparent with information on our site, and our team is eager to help with any questions. We believe in the value Travers will add to your instructional offerings." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "f36e5839-8c63-4d7a-b534-ef568cb2054a"
+  }, {
+    "intent": "negativeEssentialsFocusPriority",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We understand the hesitation to add new tools. Travers is designed to be seamlessly integrated into your existing routine, offering a simple, intuitive platform to manage bookings, ultimately designed to lighten your workload.", "Understanding your current priorities, Travers is crafted to fit seamlessly into your workflow, offering an easy-to-use platform for managing bookings that's intended to reduce your administrative load.", "We get your focus on essentials. That's why Travers is built to integrate smoothly with your existing routines, providing a straightforward system for booking management to help lighten your duties.", "Recognizing your emphasis on necessary tools, Travers is designed to complement your existing processes, offering a user-friendly interface for handling bookings and easing your workload.", "Acknowledging your concentration on the essentials, Travers has been developed to effortlessly merge with your current operations, presenting a simple solution for booking management aimed at reducing your administrative tasks.", "We understand your need to stick to the basics. Travers is made to easily fit into your existing setup, providing a straightforward platform for managing bookings and thereby aiming to simplify your workload." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "29196270-f2ec-46f7-9865-3ce480ee9cdc"
+  }, {
+    "intent": "negativeCompanyRecognitionLack",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers is gaining traction among action sports instructors for its user-friendly design and the tangible benefits it offers, such as easy booking management. We're here to provide any information you need to get to know us better.", "Travers is becoming well-known among action sports instructors for our intuitive design and practical benefits like straightforward booking management. We're eager to share more about what we offer and help you get acquainted with us.", "Travers is on the rise in the action sports instruction community, known for our user-friendly interface and benefits such as simplified booking management. We're here to provide all the information you might need to familiarize yourself with our services.", "Gaining popularity among action sports instructors, Travers is recognized for its ease of use and practical features, including hassle-free booking management. We're available to answer any questions and introduce you to our platform.", "Travers is quickly becoming a favorite among action sports instructors, thanks to our simple design and the clear advantages we offer, such as easy management of bookings. We're ready to offer any details you need to learn more about us.", "As Travers gains recognition among action sports instructors for its straightforward design and useful features like easy booking management, we're here to help you discover more about us and provide any information you need." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "397b49e3-5260-4f21-95b1-cbf265f46801"
+  }, {
+    "intent": "negativeVendorExperimentationHesitance",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We understand the move towards simplification. Travers aims to streamline the process of managing lessons, replacing multiple tools or services you might have used in the past, making your operation more efficient.", "We get your focus on keeping things simple. Travers is designed to simplify your lesson management by consolidating tools you might already be using, aiming to make your business more streamlined and efficient.", "Understanding your preference for simplicity, Travers offers a streamlined approach to managing your lessons, potentially replacing various tools or services, thus aiming to enhance your operational efficiency.", "Acknowledging your stance on simplicity, Travers is built to make lesson management more efficient by merging the functionality of multiple tools, aiming to refine and improve your business processes.", "We recognize your move towards a simpler operational setup. With Travers, our goal is to consolidate lesson management into one efficient platform, replacing the need for multiple tools and services.", "Understanding your current approach towards vendor relationships, Travers is here to help streamline your operations by offering a comprehensive solution for lesson management, thereby making your processes more efficient without the need to experiment with multiple new vendors." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "266dd6bb-d7ce-49e5-81a1-cdd1b20b44d6"
+  }, {
+    "intent": "negativeSalesPitchDisinterest",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We respect your time and are not here to pressure you. Travers offers a straightforward solution to common challenges faced by instructors, providing a platform for easier client management.", "Your time is valuable to us, and we're not here to impose. Travers is all about offering a direct solution to the challenges you face as an instructor, with a focus on simplifying client management.", "We understand your aversion to sales pitches and want to assure you we're here to offer a solution, not a sales spiel. Travers provides a straightforward platform designed to address the needs of instructors like you.", "Respecting your stance on sales pitches, we want to highlight that Travers is about providing practical solutions for instructors, focusing on ease of client management without the pressure of a sales approach.", "Acknowledging your preference to avoid sales pitches, we aim to simply share how Travers can serve as a useful tool for instructors, facilitating easier client management and addressing common instructional challenges.", "We hear you on not wanting sales pitches. Instead, we offer Travers as a clear solution to help instructors manage their clients more effectively, aiming to streamline your teaching operations without any pressure." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "ee2ee45c-eeb9-41e8-afcb-2525c44dcdb0"
+  }, {
+    "intent": "negativeServiceChangeHassle",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Travers is designed for easy integration into your current operations, minimizing hassle and disruption. It's a tool aimed at enhancing your existing processes, not complicating them.", "Travers is built for seamless integration with your existing workflow, aimed at reducing any hassle and ensuring a smooth transition without complicating your current operations.", "Understanding your concerns, Travers has been designed to easily fit into your current practices, minimizing any disruption and making the process of changing services as hassle-free as possible.", "We've created Travers with ease of integration in mind, ensuring that transitioning to our service minimizes any inconvenience and smoothly enhances your existing processes.", "Travers aims to simplify your transition, designed to seamlessly integrate into your operations and enhance your current system without the hassle typically associated with changing services.", "Recognizing the importance of hassle-free transitions, Travers is developed to blend into your current operations smoothly, focusing on enhancing your processes without adding complexity." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "a47086d7-bb2d-416d-85a3-3b3eefcde318"
+  }, {
+    "intent": "negativeLearningCurveReluctance",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We've designed Travers with ease of use in mind, ensuring a minimal learning curve. Our support team is also here to help you every step of the way, making the transition as smooth as possible.", "Understanding your concern, Travers is designed to be user-friendly from the start, offering an intuitive interface to minimize the learning curve. Plus, our support team is ready to assist, ensuring a smooth adoption process.", "We've made Travers as straightforward as possible, aiming to eliminate any steep learning curve and backed by a supportive team to guide you, making sure you find the transition easy and efficient.", "Recognizing the potential challenge of learning new tools, Travers has been crafted for simplicity and ease of use, supported by a dedicated team to help you adjust smoothly and quickly.", "Travers prioritizes user-friendliness to ensure a gentle learning curve. Our support team is always available to facilitate your familiarization with the platform, ensuring a hassle-free transition.", "With Travers, we've focused on simplicity and minimal learning curves, complemented by comprehensive support from our team, making sure you can easily integrate Travers into your routine without any difficulties." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "4cc9c4c9-2e0a-42d3-9102-3d49c946de56"
+  }, {
+    "intent": "negativeDigitalFootprintReduction",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "While Travers is a digital platform, it's designed to streamline and reduce your administrative workload, potentially allowing you to minimize your overall digital usage by consolidating your business operations.", "Acknowledging your goal to reduce your digital footprint, Travers is built to streamline your administrative tasks, potentially allowing for a reduction in your overall digital use by centralizing your operational needs on a single platform.", "Understanding your aim to minimize digital usage, Travers offers a solution to consolidate your business operations, aiming to reduce the administrative burden and possibly decrease your reliance on multiple digital tools.", "With your objective to lessen your digital footprint in mind, Travers has been designed to help streamline and simplify your business processes, which could lead to a more efficient use of digital resources by bringing everything under one roof.", "Recognizing your focus on reducing digital consumption, Travers provides a way to efficiently manage your teaching operations, potentially enabling you to consolidate your digital activities and reduce your overall digital presence.", "Considering your efforts to decrease your digital footprint, Travers is aimed at making your administrative work more efficient, potentially reducing your need for multiple digital platforms by offering a comprehensive solution for your business needs." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "0eaf15db-69b0-4e9f-bd7e-a316078ddaaa"
+  }, {
+    "intent": "negativeTechnologyAdditionAvoidance",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We understand concerns about technology overload. Travers is designed to simplify rather than complicate, offering a straightforward platform to manage the essential aspects of your business more efficiently.", "We're mindful of the potential for technology overload, which is why Travers is crafted to simplify your business management, focusing on streamlining essential tasks without adding unnecessary complexity.", "Understanding your hesitation towards more tech, Travers is designed to make managing your business simpler, offering an intuitive platform that enhances efficiency without complicating your tech usage.", "Recognizing your desire to limit tech addition, Travers aims to provide a solution that simplifies rather than complicates, focusing on streamlining key business operations in a user-friendly manner.", "Acknowledging your concerns about tech overload, Travers has been developed to assist in managing your business more efficiently, focusing on essential functionalities to ensure ease of use without overwhelming you with technology.", "Considering your aim to minimize new technology in your life, Travers is structured to simplify your operations, providing a straightforward and efficient platform for managing your teaching business without adding technological complexity." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "9533a3f4-6485-4bcd-ad63-98246e515d8b"
+  }, {
+    "intent": "negativeResourceAllocationShift",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We understand that priorities shift, but Travers is designed to fit seamlessly into your business, helping to streamline your bookings at no cost, freeing up resources for other priorities.", "We recognize the need to prioritize your resources, which is why Travers is designed to integrate smoothly with your business at no extra cost, helping you manage your bookings more efficiently and free up resources for other important areas.", "Understanding your need to reallocate resources, Travers offers a seamless solution to help manage your bookings without any financial commitment, allowing you to focus your resources on other priorities.", "Acknowledging the shift in your resource allocation, Travers is built to provide an efficient booking management system at no cost, designed to complement your business and liberate resources for other needs.", "Recognizing your current resource priorities, Travers is created to fit into your business effortlessly, offering a way to streamline your booking processes for free, thus freeing up your resources for other critical areas.", "We understand your focus on reallocating resources, which is why Travers is developed to seamlessly integrate into your operations at no charge, helping you to manage bookings more effectively and allocate your resources elsewhere more efficiently." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "429adf77-8523-411c-abca-c7dc89366276"
+  }, {
+    "intent": "negativeNegativeReviewsAwareness",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We take feedback seriously and continuously work on improving Travers. I'd be happy to address any specific concerns you've heard and provide current information to help you form an updated view.", "We value all feedback and are dedicated to continually enhancing Travers. Let me address any concerns you've encountered and offer the latest information for a clearer perspective.", "Hearing about negative reviews is important to us as it fuels our improvement efforts. I'm here to clarify any issues you've heard about and update you on how Travers has evolved.", "Feedback, whether positive or negative, is crucial for our growth. I'd be glad to discuss any specific criticisms you've heard and provide you with up-to-date information about Travers.", "We take all feedback to heart, working tirelessly to improve Travers. I'm eager to tackle any negative perceptions you've encountered and give you the most current insights into our platform.", "Every piece of feedback is an opportunity for us to improve. I'm ready to go over any negative reviews you've come across and share recent updates to help reshape your understanding of Travers." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "f98349d1-614f-41d4-aa60-d9b52d29fc95"
+  }, {
+    "intent": "negativeTimeConsiderationLack",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I can send detailed information directly to your email so you can review Travers at your convenience and see how it could benefit you. This way, you can make a decision when you feel more comfortable.", "I understand your time constraints, so how about I email you detailed information about Travers? You can review it when it's more convenient for you and get back to us at a time that suits you better.", "Given your busy schedule, I can forward all the necessary details about Travers to your email. This way, you can take a look at your own pace and decide when you're ready.", "Acknowledging your current time limitations, let me send the information to your email.", "You can review the benefits of Travers at a time that's more convenient for you, ensuring you can make an informed decision.", "I'll make it easier for you by sending detailed information about Travers to your email. This allows you to explore how it can benefit you on your own time, making a decision when you feel more prepared.", "Considering your packed schedule, I'll email you all the information you need about Travers. You can examine it when you have a moment and decide how you'd like to proceed at a time that feels right for you." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "db044e35-64f9-4c24-ae72-606eed6061d7"
+  }, {
+    "intent": "negativeColdCallDislike",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I apologize if this call was inconvenient. Our intention is to share something that could genuinely benefit your work as an instructor.", "My apologies for any inconvenience this call may have caused. We're simply hoping to share how Travers could be of great use to your instructional efforts.", "I'm sorry if this call came at an inconvenient time. We aim to introduce you to how Travers can significantly aid in your teaching work.", "We apologize for the intrusion. Our goal is to inform you about the potential benefits of Travers for your instruction.", "Sorry for any inconvenience caused by this call. Our intent is to present Travers as a tool that could enhance your teaching practice.", "My apologies for the unsolicited call. We believe Travers could offer valuable assistance in your role as an instructor and wanted to share that with you." ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "2c001473-6de1-475e-95dc-bfef784520ce"
   } ],
   "eventHandlers": [ {
     "event": "sys.no-match-default",
